@@ -15,5 +15,8 @@ public class Copilabstractic extends Abstractic{
 	public String hahaha(String x){
 		return(x);
 	}
+	public Copilabstractic(){
+		System.out.println("Reclama!");
+	}
 
 }

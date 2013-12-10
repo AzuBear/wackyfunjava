@@ -6,4 +6,8 @@ public abstract class Abstractic {
 		return a;
 	}
 	public abstract int altceva();
+	public Abstractic()
+	{
+		System.out.println("Doamne ce zi!");
+	};
 }

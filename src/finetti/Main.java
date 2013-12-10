@@ -11,5 +11,6 @@ public class Main {
 	Copilabstractic p = (Copilabstractic)om;
 	p.hahaha("aici trebuie string");
 	}
+	
 
 }
