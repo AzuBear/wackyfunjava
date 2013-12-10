@@ -12,5 +12,8 @@ public class Copilabstractic extends Abstractic{
 		// TODO Auto-generated method stub
 		return 0;
 	}
+	public String hahaha(String x){
+		return(x);
+	}
 
 }
