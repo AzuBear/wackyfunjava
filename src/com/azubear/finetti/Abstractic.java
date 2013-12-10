@@ -1,4 +1,4 @@
-package finetti;
+package com.azubear.finetti;
 
 public abstract class Abstractic {
 	public String p = "Larisa";

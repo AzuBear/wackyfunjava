@@ -1,4 +1,6 @@
-package finetti;
+package com.azubear.finetti;
+
+import com.azubear.finetti.ClasaExterioara.ClasaInterioaraStatica;
 
 public class Main {
 

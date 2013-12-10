@@ -1,4 +1,4 @@
-package finetti;
+package com.azubear.finetti;
 
 public class ClasaX {
 

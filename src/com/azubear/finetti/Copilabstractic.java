@@ -1,4 +1,4 @@
-package finetti;
+package com.azubear.finetti;
 
 // o singura extends, multiple implements
 public class Copilabstractic extends Abstractic/*, ClasaX*/ implements Interfata, Altainterfata{
